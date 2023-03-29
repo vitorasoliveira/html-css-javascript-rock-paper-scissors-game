@@ -1,0 +1,23 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #192732;
+}
+
+body {
+  background: #d8d8d8;  
+}
+
+button {
+  background: #fdb927;
+  padding: 10px 30px;
+  border: 2px solid #000;
+  border-radius: 2px;  
+  font-weight: bold;  
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
